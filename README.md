@@ -19,6 +19,7 @@
 
 # Como Usar o Chat
 
-### Para acessar como cliente acese ```http://localhost:3333/pages/client```
-
-### Para acessar como atendente acese ```http://localhost:3333/pages/admin```
+### Para acessar como cliente: 
+ - ```http://localhost:3333/pages/client```
+### Para acessar como atendente: 
+ - ```http://localhost:3333/pages/admin```
